@@ -18,6 +18,7 @@ public class a implements Servlet {
     @Override
     public void service(ServletRequest servletRequest, ServletResponse servletResponse) throws ServletException, IOException {
         System.out.println("hello servlet");
+        System.out.println("hello Git");
     }
 
     @Override
