@@ -26,6 +26,7 @@ public class a implements Servlet {
         System.out.println("by hot-fix");
         System.out.println("push.tset");
         System.out.println("pull.tset");
+        System.out.println("push2");
     }
 
     @Override
